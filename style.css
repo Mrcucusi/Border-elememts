@@ -1,0 +1,9 @@
+p {
+  border-style: solid; /*Thêm cái khung cho đoạn text*/
+  border-width: 2px; /*Độ dày của khung*/
+  border-color: blueviolet; /*Màu của cái khung:)))*/
+  border-radius: 10px;
+  padding: 10px; /*Khoảng cách từ cái chữ đến cái lề*/
+  border-top-color: rgb(219, 89, 14); /*Màu của cái khung ở trên*/
+  border-right-width: 15px;
+}
